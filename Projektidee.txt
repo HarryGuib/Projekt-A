@@ -1,6 +1,24 @@
-=== Projektidee HarryGuib, 2016-04-05 ===
+﻿=== Projektidee HarryGuib, 2016-04-05 ===
 
-Ich habe noch keine Projektidee.
+Für meine Projektidee habe ich mich für ein Spiel entschieden.
+
+====Natur-Kraft Kampf====
+
+Das Prinzip ist simpel :
+
+- Der Spieler kann mit drei Charakteren spielen (Feuer, Wasser, Blitz) .
+
+- Er muss die Feinde, Raketen oder Hindernisse schlagen, ausweichen oder töten . 
+
+- Jeder Feind, Rakete oder Hindernis hat eine verschiedene Farbe oder Fähigkeiten und das gilt auch für den Spielcharakter.
+
+- Der Spieler muss während des Spiels den richtigen Charakter wählen um die Feinde zu töten oder die Rakete zu schlagen . 
+
+- Zum Beispiel müssen Feuerraketen mit dem Wasser Charakter geschlagen werden oder Feinde aus Wasser sollen mit dem Blitz Charakter getötet werden.
+
+- Jeder Charakter hat 3 Lebenspunkte. Wenn einer von denen geschlagen wird, dann verliert er einen Punkt.
+
+- Wenn alle Charakteren alle lebenspunkte verloren haben dann wird das spiel beendet .
 
 === Feedback Alpers, 2016-04-12 ===
 
